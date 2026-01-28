@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -31,6 +31,7 @@
     {"id":{"name":"o_walker_manager","path":"objects/o_walker_manager/o_walker_manager.yy",},},
     {"id":{"name":"o_walker","path":"objects/o_walker/o_walker.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ActionCreateTower","path":"scripts/ActionCreateTower/ActionCreateTower.yy",},},
     {"id":{"name":"GoldGivingComponent","path":"scripts/GoldGivingComponent/GoldGivingComponent.yy",},},
     {"id":{"name":"ResetDrawSettings","path":"scripts/ResetDrawSettings/ResetDrawSettings.yy",},},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},},

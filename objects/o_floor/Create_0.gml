@@ -6,6 +6,7 @@ enum FloorType {
 image_speed = 0;
 
 floor_type = FloorType.BLANK;
+has_tower = false;
 
 grid_index_x = 0;
 grid_index_y = 0;
