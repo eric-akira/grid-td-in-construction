@@ -19,7 +19,6 @@ function take_a_bullet() {
 
 function kill_myself() {
 	gold_giving_component.give_gold();
-	o_walker_manager.instantiate_new_walker();
 	instance_destroy(self);
 }
 
