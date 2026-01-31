@@ -1,1 +1,2 @@
-move_speed = 160;
+move_speed = 320;
+depth = -100;
