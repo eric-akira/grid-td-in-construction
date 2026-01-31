@@ -10,7 +10,7 @@ if (!is_undefined(target_path_x) && !is_undefined(target_path_y)) {
 		y = target_path_y;
 
 		if(x == final_target_path_x && y == final_target_path_y) {
-			kill_myself();
+			decrease_player_life();
 		}
 		
 		if (target_path_index < (array_length(o_grid_manager.path_grid_indexes) - 1)) {

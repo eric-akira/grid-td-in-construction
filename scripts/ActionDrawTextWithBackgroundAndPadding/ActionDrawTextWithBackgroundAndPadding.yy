@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ActionDrawTextWithBackgroundAndPadding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ActionDrawTextWithBackgroundAndPadding",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

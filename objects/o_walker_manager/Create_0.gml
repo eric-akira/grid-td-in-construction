@@ -1,4 +1,4 @@
-seconds_between_spawn = 1;
+seconds_between_spawn = 0.7;
 time_until_next_spawn = 0;
 
 function instantiate_new_walker() {

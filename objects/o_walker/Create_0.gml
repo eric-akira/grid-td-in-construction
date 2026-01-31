@@ -14,11 +14,16 @@ function set_target_path_index(_target_path_index) {
 }
 
 function take_a_bullet() {
+	gold_giving_component.give_gold();
+	kill_myself();
+}
+
+function decrease_player_life() {
+	global.lifes -= 1;
 	kill_myself();
 }
 
 function kill_myself() {
-	gold_giving_component.give_gold();
 	instance_destroy(self);
 }
 
